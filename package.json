@@ -1,0 +1,18 @@
+{
+  "name": "angular-io-code",
+  "theme": "syntax",
+  "displayName": "Angular-io-Code",
+  "version": "0.0.0",
+  "description": "Angular.io inspired Color Theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "angular",
+    "Angular"
+  ],
+  "repository": "https://github.com/Angular-io-Code/Angular-io-Code-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
