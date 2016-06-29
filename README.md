@@ -22,9 +22,7 @@ It was made with (http://tmtheme-editor.herokuapp.com) and we appreciate the pro
 
 For more info visit (https://github.com/aziz/tmTheme-Editor).
 
-RealGithub theme was not build from scratch instead we used Inspiredgithub theme (http://tmtheme-editor.herokuapp.com/#!/editor/theme/Inspiredgithub) from (http://tmtheme-editor.herokuapp.com) as a starting point, but we made some tiny changes so the resulting theme looks exaclty like the one used in and from github.
-
-We want to thank to (https://github.com/aziz/tmTheme-Editor), the creator of (http://tmtheme-editor.herokuapp.com/#!/editor/theme/Inspiredgithub) and (https://github.com) beacuse they are the reason for creation of RealGithub theme.
+We want to thank to (https://github.com/aziz/tmTheme-Editor), the creator of theme used at https://angular.io  and (https://angular.io) itself beacuse they are the reason for creation of Angular-io-Code theme.
 
 # Mismatch
 
